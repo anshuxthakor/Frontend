@@ -4,7 +4,7 @@ A personal frontend development learning repository containing exercises, experi
 
 This repository documents my progress from basic JavaScript and DOM manipulation to React, Redux Toolkit, TypeScript, API integration, routing, authentication, and feature-based application architecture.
 
-> This is a learning repository, so some projects are experimental, incomplete, or intentionally written in different styles while exploring new concepts.
+> This is a learning repository, so some projects are experimental, incomplete, or intentionally written in different styles while exploring new concepts so check accordingly.
 
 ---
 
