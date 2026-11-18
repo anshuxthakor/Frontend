@@ -1800,7 +1800,3 @@ Until a license is added, the code should be treated as personal learning materi
 Created and maintained by [anshuxthakor](https://github.com/anshuxthakor).
 
 ---
-
-# Repository Link
-
-[https://github.com/anshuxthakor/Frontend](https://github.com/anshuxthakor/Frontend)
