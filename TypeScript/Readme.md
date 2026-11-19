@@ -20,7 +20,7 @@ The examples start with basic TypeScript syntax and gradually move toward using 
 
 ## Quick start
 
-The folders contain separate learning projects. Open the folder you want to practice.
+The folders contain separate learnings. Open the folder you want to practice.
 
 ### TypeScript 01
 
