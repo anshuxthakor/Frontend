@@ -2,11 +2,6 @@
 
 This folder is a collection of numbered React practice projects and exercises. Each subfolder (00–21) is a separate demo or mini-project created while learning React. This README is an index to help you quickly find, run, and understand each project, and it also provides guidance for contributors and suggested next steps to make the collection easier to navigate.
 
-Summary of what I found
-- Total subfolders scanned: 22 (00 → 21)
-- Each folder is a self-contained demo or project (contents vary — some may be full React apps with package.json, others may be component exercises or code snippets).
-- This README will help you discover and run what's inside each folder and provides recommendations for improving discoverability.
-
 Table of contents
 - Quick start — run a project
 - How to read this index
