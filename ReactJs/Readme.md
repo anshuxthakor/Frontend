@@ -34,7 +34,7 @@ How to read this index
   - The folder name (exact)
   - What to check for inside the folder
   - How to run it and what to expect
-- I did not expand every folder yet (to avoid guessing specifics). For full per-folder READMEs I can extract each folder’s package.json, scripts, and top-level file comments and produce tailored descriptions.
+- I did not expand every folder yet (to avoid guessing specifics).
 
 ---
 
